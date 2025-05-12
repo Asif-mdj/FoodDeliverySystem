@@ -1,0 +1,33 @@
+HELP.md
+target/
+.mvn/
+!**/src/main/**/target/
+bin/
+mvnw
+mvnw.cmd
+src/test/
+       
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+**/src/test/**/build/
+		 
+		 
